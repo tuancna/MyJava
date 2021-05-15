@@ -1,1 +1,1 @@
-# MyJava
+# Java Language
